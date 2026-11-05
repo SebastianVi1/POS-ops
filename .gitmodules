@@ -1,0 +1,6 @@
+[submodule "POS"]
+	path = POS
+	url = https://github.com/SebastianVi1/POS.git
+[submodule "POS_Frontend"]
+	path = POS_Frontend
+	url = https://github.com/SebastianVi1/POS_Frontend.git
