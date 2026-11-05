@@ -1,0 +1,12 @@
+# Local credentials and machine-specific agent state
+.aws/
+.codex/
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
